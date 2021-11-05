@@ -4,6 +4,7 @@
     1. Define a class that has following data variables:
           1. x: to store x-coordinate of the cell.
           2. y: to store y-coordinate of the cell.
+          3. dis: distance 
     2. steps: number of steps required to reach that cell starting from co-ordinates of the Knight.
     3. Create a BFS queue that stores class objects as nodes.
     4. Begin the Iterative BFS traversal.
