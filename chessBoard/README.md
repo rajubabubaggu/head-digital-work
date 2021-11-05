@@ -10,4 +10,7 @@
     5. In every step of the iterative traversal, pop a node from the queue. say,the node is front.
     6. If the cell at coordinates (front.y, front.x) is the target cell, return the value of front.steps.
         Else, continue the iterative traversal.
+# How to run this function
+  Goto head-digital-work/chessBoard/chessBoardKnight folder then execute below command
+  node .\chessBoardKnight.js knightPos=[1,1] targetPos=[30,30] sizeOfBoard=30
 
